@@ -16,10 +16,7 @@ body{
 height:50px;
 width:220px;
 margin:5px;
-
-
-
-
+overflow:hidden;
 text-align: right;
 border:2px solid black;
 border-radius: 3%;
