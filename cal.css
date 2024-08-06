@@ -1,0 +1,40 @@
+body{
+    background-color: #a2bc89;
+    padding-top:18vh;
+    padding-left: 20vw;
+}
+#parentdiv{
+    height:300px;
+    width:238px;
+    background-color:#656565;
+    padding:20px;
+    border:#1e1d1d solid 2px;
+    border-radius:5%;
+    box-shadow: rgb(233, 229, 229) 5px 5px
+}
+#screen{
+height:50px;
+width:220px;
+margin:5px;
+
+
+
+
+text-align: right;
+border:2px solid black;
+border-radius: 3%;
+background-color:#C6ED63;
+box-shadow: #555555 3px 3px ;
+color:black;
+font-size: xx-large;
+font-weight: bolder;
+padding-top:12px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.childdiv{
+     height:50px;
+    width:50px;
+    margin:2px;
+    border-radius:15%;
+    box-shadow: rgb(230, 230, 230) 1px 1px;
+}
